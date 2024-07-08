@@ -22,3 +22,7 @@ https://www.tablesgenerator.com/#google_vignette
 ```
 https://www.iconfont.cn/
 ```
+搜论文
+```
+https://ac.scmor.com/
+```
