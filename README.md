@@ -11,4 +11,7 @@ https://openxlab.org.cn/
 ```
 https://ikuuu.pw/
 ```
-
+公式识别
+```
+[https://www.simpletex.cn/ai/latex_ocr](https://www.simpletex.cn/ai/latex_ocr)
+```
