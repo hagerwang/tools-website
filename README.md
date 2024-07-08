@@ -11,7 +11,14 @@ https://openxlab.org.cn/
 ```
 https://ikuuu.pw/
 ```
-公式识别
+latex
 ```
-[https://www.simpletex.cn/ai/latex_ocr](https://www.simpletex.cn/ai/latex_ocr)
+公式识别
+https://www.simpletex.cn/ai/latex_ocr
+表格创建
+https://www.tablesgenerator.com/#google_vignette
+```
+矢量图标
+```
+https://www.iconfont.cn/
 ```
