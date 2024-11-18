@@ -2,7 +2,6 @@
 取颜色
 ```
 [https://photokit.com/colors/eyedropper/?lang=zh](https://photokit.com/colors/eyedropper/?lang=zh)
-[TextBPN](https://github.com/GXYM/TextBPN)
 ```
 数据集
 ```
